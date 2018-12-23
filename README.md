@@ -1,2 +1,2 @@
 # Ionic_learn_test
-For learning ionic 2 learning
+For learning ionic 3 - pwa learning
